@@ -1,0 +1,68 @@
+body {
+    font-family: Heiti SC;
+    margin-bottom: 120px;
+}
+.app-header {
+    height: 90px;
+    width: 100%;
+    border-bottom: 0.5px solid grey;
+    background-color: #ffffff;
+    position: fixed;
+    z-index: 100;
+}
+.app-footer {
+    position: fixed;
+    border-top: 0.5px solid grey;
+    box-shadow: 0px 0px 5px rgba(128, 128, 128, 1);
+    background-color: #366445;
+    height: 100px;
+    width: 100%;
+    bottom: 0;
+}
+#letsgo {
+    margin-bottom: -50px;
+    font-family: 'Lobster', cursive;
+}
+#slogan {
+    font-size: 2em;
+}
+.logo {
+    z-index: 10000;
+    border: 2px solid #366445;
+    height: 70px;
+    width: 70px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.phone {
+    height: 500px;
+    align-content: center;
+}
+
+#initial {
+    height: 770px;
+}
+#go {
+    background-color: #70bf91;
+}
+#sentence {
+    font-size: 1.3em;
+}
+#more {
+    border-right: 1px solid grey;
+    border-left: 1px solid grey;
+    background-color: #36644562;
+    color: white;
+    height: 330px;
+}
+#about {
+    font-size: 20px;
+}
+.codex {
+    height: 40px;
+    align-content: right;
+    margin-bottom: -13px;
+    margin-left: 3px;
+}
