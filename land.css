@@ -28,13 +28,10 @@ body {
 }
 .logo {
     z-index: 10000;
-    border: 2px solid #366445;
     height: 70px;
     width: 70px;
-    margin-bottom: 10px;
     margin-top: 10px;
     margin-left: 10px;
-    margin-right: 10px;
 }
 .phone {
     height: 500px;
