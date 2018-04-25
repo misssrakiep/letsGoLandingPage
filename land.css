@@ -66,3 +66,13 @@ body {
     margin-bottom: -13px;
     margin-left: 3px;
 }
+.laravel-icon, .mysql {
+    width: 200px;
+    margin-right: 20px;
+}
+.laravel-icon {
+    margin-bottom: -10px;
+}
+ .vue {
+     width: 100px;
+ }
