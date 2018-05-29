@@ -25,6 +25,8 @@ body {
 }
 #slogan {
     font-size: 2em;
+    color: rgb(23, 100, 75);
+
 }
 .logo {
     z-index: 10000;
@@ -42,16 +44,12 @@ body {
     height: 770px;
 }
 #go {
-    background-color: #70bf91;
+    background-color: rgb(23, 100, 75);
 }
 #sentence {
     font-size: 1.3em;
 }
 #more {
-    border-right: 1px solid grey;
-    border-left: 1px solid grey;
-    background-color: #36644562;
-    color: white;
     height: 330px;
 }
 #about {
