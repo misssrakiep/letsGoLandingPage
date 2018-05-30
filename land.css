@@ -15,7 +15,7 @@ body {
     border-top: 0.5px solid grey;
     box-shadow: 0px 0px 5px rgba(128, 128, 128, 1);
     background-color: #366445;
-    height: 100px;
+    height: 50px;
     width: 100%;
     bottom: 0;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 #initial {
-    height: 770px;
+    height: 750px;
 }
 #go {
     background-color: rgb(23, 100, 75);
